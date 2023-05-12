@@ -1,0 +1,27 @@
+/* Home section styles */
+
+.home {
+  background-color: #fef8f5!important;
+}
+
+.home__part {
+  margin-top: 50px!important;
+}
+
+/* About us section styles */
+.about__us-img {
+  width: 500px;
+  height: 600px;
+}
+
+/* Services section styles */
+.services {
+  background-color: #fef8f5!important;
+}
+.icons {
+  color: #ef7f4d;
+
+}
+.bent {
+  border-radius: 15px;
+}
