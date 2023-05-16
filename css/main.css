@@ -23,5 +23,21 @@
 
 }
 .bent {
+  margin: 0 0 40px;
   border-radius: 15px;
+}
+
+
+/* Portfolio section styles */
+.active-link {
+  color: #ef7f4d!important;
+}
+
+.portfolio-link {
+  color: #212529;
+  transition: color 0.5s ease;
+}
+
+.portfolio-link:hover {
+  color: #ef7f4d;
 }
